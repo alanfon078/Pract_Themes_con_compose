@@ -34,3 +34,6 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
+
+# Practice documents (not part of the codelab)
+resultados_practica.txt
